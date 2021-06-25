@@ -4,4 +4,5 @@ Dynamic Weather App
  USED
  FOR BACKEND AND USING A RESTAPIFOR FETCHING DETAILS. HTML,CSS AND JAVASCRIPT FOR FRONTEND.
  
- 
+ ![dwa](https://user-images.githubusercontent.com/70194359/123407884-135e7680-d5ca-11eb-89da-813f74692f41.jpeg)
+
